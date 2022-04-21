@@ -24,10 +24,10 @@ The capability of the warmth manipulate system is coded in embedded c and the ru
  ## output 
 
  #### ON
-![ON]"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (27).png"
+![ON]("C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (27).png")
 
 #### OFF
-![OFF]"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (28).png"
+![OFF]("C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot (28).png")
 
 ## Denonstration 
 ## Step 1: 
