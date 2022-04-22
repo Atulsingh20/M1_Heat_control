@@ -42,6 +42,7 @@
 * #### The corresponding temperature values based totally on the digitized temperature enter is transmitted by means of the UART protocol. right here the records is displayed on the serial screen.
 
 ### The below provided link take you to the C coding of the application :
+3_Implementation/main.c
 
 ## SIMULATION
 
