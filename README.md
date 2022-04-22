@@ -17,10 +17,10 @@
 
 ## BASIC COMPONENTS OF A  CAR TEMPERATURE CONTROL 
 * ###  HARDWARE
-* 
-* Atmega 328
-* Variable Resistor 1 kOhm
-* Pair of 100 ohm Resistors 
+
+* *Atmega 328
+* *Variable Resistor 1 kOhm
+* *Pair of 100 ohm Resistors 
 * Pair Of Switch
 * CRO( To Show Temprature in Graph)
 * Serial Monitor (Actual Temprature Value)
