@@ -1,7 +1,7 @@
 
 # CAR TEMPERATURE CONTROL
 
-## INTRODUCTION
+# INTRODUCTION
 
 
  Temperature: 
@@ -11,11 +11,12 @@ Control  System:
 The heat manage gadget is largely used to control the temperature of a vehicle seat. when a person or motive force of the car receives seated on a automobile, the button sensor receives activated. After that, the consumer gets access to show on the heater. The temperature sensor continues monitoring the temperature and sends the analog fee to the microcontroller. The microcontroller strategies the analog enter of the temperature sensor and outputs a temperature cost thru serial verbal exchange. all the activities of the manipulate gadget are carried out on a microcontroller called Atmega328.
 
 
-## OBJECTIVE OF THE PROJECT
+# OBJECTIVE OF THE PROJECT
 The main  objective of  this project is  to design a  Temperature Control System that helps to costumer for teamprature controlling automatically.It not only provide easy interface to control the teamprature nut also automatic temprature controlling which improve smartness of car.To achieve this, a highly sensitive Temperature sensor detects the current temperature and feeds it as input to the Micro-controller.The  Micro-controller then  initiates a  sequence of control  procedures based  on  the configuration  of  the control  program  it  contains.These control  procedures would include: turning on/off a heating or cooling.
 
-## BASIC COMPONENTS OF A  CAR TEMPERATURE CONTROL 
-* #  HARDWARE
+# BASIC COMPONENTS OF A  CAR TEMPERATURE CONTROL 
+
+##  HARDWARE
 
 * Atmega 328
 * Variable Resistor 1 kOhm
@@ -28,12 +29,12 @@ The main  objective of  this project is  to design a  Temperature Control System
 * Pair of Probe (Measure Terminal Voltage)
 * GROUNDING
 
-# SOFTWARE
+## SOFTWARE
 * MICROCHIP STUDIO
 * VS CODE
 * SIMULIDE
 
-## FUNCTIONALITY
+# FUNCTIONALITY
 
 * when the 2 switches are closed, the primary LED glows indicating the actuation of the system and the heater.
 * Next the analog input from the temperature sensor is received and digitized.
@@ -43,7 +44,7 @@ The main  objective of  this project is  to design a  Temperature Control System
 # The below provided link take you to the C coding of the application :
 https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/tree/main/3_Implementation
 
-## SIMULATION
+# SIMULATION
 
 #### The capability of the warmth manipulate system is coded in embedded c and the running is validated the use of simuation in a software program known as SimulIDE. underneath suggests images in which within the 1st image suggests the repute of the simulation while the device is OFF and the second one image shows the repute of the machine while it's far ON.
 
@@ -58,9 +59,9 @@ https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/tree/main/3_Implementa
  ![Screenshot (28)](https://user-images.githubusercontent.com/101882303/164517920-010f9f63-c61c-4c17-a156-13eb9195da5f.png)
 
 
-## Demo
+# Demo
 
-# OUTPUT
+* OUTPUT
 
 
 |Circuit|RAM Table|
