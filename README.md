@@ -1,4 +1,4 @@
-https://api.codiga.io/project/33003/score/svg https://api.codiga.io/project/33003/status/svg
+![Code Quality](https://api.codiga.io/project/33003/score/svg) ![Code Grade](https://api.codiga.io/project/33003/status/svg)
 # CAR TEMPERATURE CONTROL
 
 # INTRODUCTION
