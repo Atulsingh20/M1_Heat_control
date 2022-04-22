@@ -47,7 +47,9 @@ The capability of the warmth manipulate system is coded in embedded c and the ru
 
 # Demo
 * OUTPUT
-|Circuit|RAM Table||:--:|:--:|
+
+|Circuit|RAM Table|
+|:--:|:--:|
 ![CIRCUIT](https://user-images.githubusercontent.com/101882303/164528660-947e3fe2-8bc2-420d-a089-6a931fff7f31.gif)|![RAM_table](https://user-images.githubusercontent.com/101882303/164530906-09186bbe-e83c-4ff8-96fc-406483e466d6.gif)
 |CRO|Serial Monitor|
 ![CRO](https://user-images.githubusercontent.com/101882303/164528653-b33c22de-45c4-4758-af54-ae47ee929daf.gif)|![SERIAL MONITOR](https://user-images.githubusercontent.com/101882303/164531951-ecaf2900-9c9f-4383-993a-437ab6586715.gif)
