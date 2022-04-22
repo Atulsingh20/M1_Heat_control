@@ -15,6 +15,25 @@
 
 #### The main  objective of  this project is  to design a  Temperature Control System that helps to costumer for teamprature controlling automatically.It not only provide easy interface to control the teamprature nut also automatic temprature controlling which improve smartness of car.To achieve this, a highly sensitive Temperature sensor detects the current temperature and feeds it as input to the Micro-controller.The  Micro-controller then  initiates a  sequence of control  procedures based  on  the configuration  of  the control  program  it  contains.These control  procedures would include: turning on/off a heating or cooling.
 
+## BASIC COMPONENTS OF A  CAR TEMPERATURE CONTROL 
+* ###  HARDWARE
+* 
+* Atmega 328
+* Variable Resistor 1 kOhm
+* Pair of 100 ohm Resistors 
+* Pair Of Switch
+* CRO( To Show Temprature in Graph)
+* Serial Monitor (Actual Temprature Value)
+* LED(2)
+* 5v DC Supply
+* Pair of Probe (Measure Terminal Voltage)
+* GROUNDING
+
+### SOFTWARE
+* MICROCHIP STUDIO
+* VS CODE
+* SIMULIDE
+
 ## FUNCTIONALITY
 
 * #### when the 2 switches are closed, the primary LED glows indicating the actuation of the system and the heater.
