@@ -1,4 +1,8 @@
-![Code Quality](https://api.codiga.io/project/33003/score/svg) ![Code Grade](https://api.codiga.io/project/33003/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/85c0d7a4eb594cbbba4a3c46555f1237)](https://www.codacy.com/gh/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Atulsingh20/M2_CAR_TEMPERATURE_CONTROL&amp;utm_campaign=Badge_Grade)
+## Code Quality & Code Grade
+|Code Quality score|Code Grade|Codacy Grade| Code Security |
+|--------|-------|-------|------|-----|
+|![Code Quality Score](https://api.codiga.io/project/33003/score/svg)| ![Code Grade](https://api.codiga.io/project/33003/status/svg)| ![Codacy Code Grade]| ![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c3a383b7a204c5bb3803a60cf646edb)]| [![Codacy Security Scan](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml/badge.svg)](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml)
+
 # CAR TEMPERATURE CONTROL
 
 # INTRODUCTION
