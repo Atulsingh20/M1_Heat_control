@@ -31,7 +31,7 @@ The main  objective of  this project is  to design a  Temperature Control System
 # BASIC COMPONENTS OF A CAR TEMPERATURE CONTROL
 ## COMPONENTS
 * ATmega 328 :- 
-<img align="center" alt="Coding" Width="300" src="ATmega328-M3X-Regular](https://user-images.githubusercontent.com/101882303/164884253-e78b3281-b1d3-4b99-b56c-a78b7dba6ed5.jpg">
+<img align="center" alt="Coding" Width="300" src="https://user-images.githubusercontent.com/101882303/164884253-e78b3281-b1d3-4b99-b56c-a78b7dba6ed5.jpg">
 
 ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is
 needed.The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB
