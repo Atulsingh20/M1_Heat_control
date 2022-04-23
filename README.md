@@ -1,4 +1,4 @@
-![Code Quality](https://api.codiga.io/project/33003/score/svg) ![Code Grade](https://api.codiga.io/project/33003/status/svg)
+![Code Quality](https://api.codiga.io/project/33003/score/svg) ![Code Grade](https://api.codiga.io/project/33003/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/85c0d7a4eb594cbbba4a3c46555f1237)](https://www.codacy.com/gh/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Atulsingh20/M2_CAR_TEMPERATURE_CONTROL&amp;utm_campaign=Badge_Grade)
 # CAR TEMPERATURE CONTROL
 
 # INTRODUCTION
