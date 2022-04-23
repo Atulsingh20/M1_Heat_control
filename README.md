@@ -1,6 +1,8 @@
 ![Code Quality](https://api.codiga.io/project/33003/score/svg) ![Code Grade](https://api.codiga.io/project/33003/status/svg)
 # CAR TEMPERATURE CONTROL
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5824f922fb5424db2a9017686b1bfdd)](https://app.codacy.com/gh/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL?utm_source=github.com&utm_medium=referral&utm_content=Atulsingh20/M2_CAR_TEMPERATURE_CONTROL&utm_campaign=Badge_Grade_Settings)
+
 # INTRODUCTION
  Temperature: 
  This is the degree of hotness or coldness of a body or an environment.
