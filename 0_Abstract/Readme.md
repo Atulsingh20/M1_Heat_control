@@ -32,6 +32,7 @@ The main  objective of  this project is  to design a  Temperature Control System
 ## COMPONENTS
 * ATmega 328 :- 
 ![ATmega328-M3X-Regular](https://user-images.githubusercontent.com/101882303/164884253-e78b3281-b1d3-4b99-b56c-a78b7dba6ed5.jpg)
+
 ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is
 needed.The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB
 EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general- purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software- selectable power-saving modes. The device operates between 1.8 and
@@ -39,14 +40,17 @@ EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general- purpose working reg
 
 * VARIABLE RESISTOR:-
 ![variable-resistor-500x500](https://user-images.githubusercontent.com/101882303/164884355-8bebcccc-cfa5-41be-aab6-2e32199559fa.jpg)
+
 A variable resistor is a resistor of which the electric resistance value can be adjusted. A variable resistor is in essence an electro mechanical transducer and normally works by sliding a contact (wiper) over a resistive element
 
 * RESISTOR:-
 ![Resistor](https://user-images.githubusercontent.com/101882303/164884447-e23633fb-4d41-412e-a376-c520a0f1f707.jpg)
+
 A device having resistance to the passage of an electric current.
 
 * LED:-
 ![LED](https://user-images.githubusercontent.com/101882303/164884504-b24b3b8d-d2e7-444d-94b5-8e046a6c94ef.jpg)
+
 LED stands for light emitting diode. LED lighting products produce lightup to 90% more efficiently than incandescent light bulbs. How do they work? An electrical current passes through a microchip, which illuminates the tiny light sources we call LEDs and the result is visible light.
 
 # FUNCTIONALITY
