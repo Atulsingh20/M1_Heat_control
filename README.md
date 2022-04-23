@@ -1,4 +1,5 @@
 ## Code Quality & Code Grade
+
 |Code Quality score|Code Grade|Codacy Grade| Code Security |
 |--------|-------|-------|------|-----|
 |![Code Quality Score](https://api.codiga.io/project/33003/score/svg)| ![Code Grade](https://api.codiga.io/project/33003/status/svg)| ![Codacy Code Grade]| ![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c3a383b7a204c5bb3803a60cf646edb)]| [![Codacy Security Scan](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml/badge.svg)](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml)
