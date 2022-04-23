@@ -14,7 +14,7 @@ The main  objective of  this project is  to design a  Temperature Control System
 # BASIC COMPONENTS OF A  CAR TEMPERATURE CONTROL 
 ##  HARDWARE
 * Atmega 328
-* Variable Resistor 1 kOhm
+* Potentiometer
 * Pair of 100 ohm Resistors 
 * Pair Of Switch
 * CRO( To Show Temprature in Graph)
@@ -37,9 +37,9 @@ needed.The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash m
 EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general- purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software- selectable power-saving modes. The device operates between 1.8 and
 5.5 volts. The device achieves throughput approaching 1 MIPS/MHz.
 
-* Potentiometer:-
+* POTENTIOMETER:-
 <img align="center" alt="Coding" Width="300" src="https://user-images.githubusercontent.com/101882303/164884355-8bebcccc-cfa5-41be-aab6-2e32199559fa.jpg">
-an instrument for measuring an electromotive force by balancing it against the potential difference produced by passing a known current through a known variable resistance.
+An instrument for measuring an electromotive force by balancing it against the potential difference produced by passing a known current through a known variable resistance.
 
 * RESISTOR:-
 <img align="center" alt="Coding" Width="300" src="https://user-images.githubusercontent.com/101882303/164884447-e23633fb-4d41-412e-a376-c520a0f1f707.jpg">
