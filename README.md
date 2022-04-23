@@ -14,7 +14,7 @@ The main  objective of  this project is  to design a  Temperature Control System
 # BASIC COMPONENTS OF A  CAR TEMPERATURE CONTROL 
 ##  HARDWARE
 * Atmega 328
-* Variable Resistor 1 kOhm
+* Potentiometer
 * Pair of 100 ohm Resistors 
 * Pair Of Switch
 * CRO( To Show Temprature in Graph)
