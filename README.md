@@ -58,17 +58,10 @@ The capability of the warmth manipulate system is coded in embedded c and the ru
 ![CRO](https://user-images.githubusercontent.com/101882303/164528653-b33c22de-45c4-4758-af54-ae47ee929daf.gif)|![SERIAL MONITOR](https://user-images.githubusercontent.com/101882303/164531951-ecaf2900-9c9f-4383-993a-437ab6586715.gif)
 
 # Table
-## High Level Test Plan
+# Test Case
 | Test ID | Description | Exp I/P| Exp O/P|Test case
 | --- | --- | --- | ---- |-----|
-| HLT1 |  Potentiometer |5V Power Supply|  LED-1 Blink |Pass|
-| HLT2| Pair of switch | Voltage  | LED-2 Blink |Pass|
-| HLT3 | Temprature Vary while Voltage Vary |Supply Volatge|   Temparture |Pass|
-| HLT4|Potentiometer  at max voltage  |5v| temp(33 degree)|Pass|
-
- 
-# Low Level Test Plan
-| Test ID | Description | Exp I/P| Exp O/P|Test case
-| --- | --- | --- | ---- |-----|
-| LLT1 |  Voltage Supply |5V Power Supply| Temprature (33 Degree cel) |Pass|
-| LTT2| Voltage Supply | 1v Power Supply| Temprature (20 Degree) |Pass|
+| T_01 |  Potentiometer |5V Power Supply|  LED-1 Blink |Pass|
+| T_02| Pair of switch | Voltage  | LED-2 Blink |Pass|
+| T_03 | Temprature Vary while Voltage Vary |Supply Volatge|   Temparture |Pass|
+| T_04|Potentiometer  at max voltage  |5v| temp(33 degree)|Pass|
