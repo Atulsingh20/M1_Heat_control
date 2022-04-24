@@ -76,10 +76,10 @@ The capability of the warmth manipulate system is coded in embedded c and the ru
 |CRO|Serial Monitor|
 ![CRO](https://user-images.githubusercontent.com/101882303/164528653-b33c22de-45c4-4758-af54-ae47ee929daf.gif)|![SERIAL MONITOR](https://user-images.githubusercontent.com/101882303/164531951-ecaf2900-9c9f-4383-993a-437ab6586715.gif)
 
-# Table
+# Test Case
 | Test ID | Description | Exp I/P| Exp O/P|Test case
 | --- | --- | --- | ---- |-----|
-| T_01 |  Led control by two switches |2-switch off|  Led Blink |Pass|
-| T_02| Universal Asynchronous Receiver Transmitter(USART) communication| data  | data |Pass|
-| T_03 | Pulse With Modulation in sensor ||  successfully added |Pass|
+| T_01 |  Potentiometer |5V Power Supply|  LED-1 Blink |Pass|
+| T_02| Pair of switch | Voltage  | LED-2 Blink |Pass|
+| T_03 | Temprature Vary while Voltage Vary |Supply Volatge|   Temparture |Pass|
 | T_04|Potentiometer  at max voltage  |5v| temp(33 degree)|Pass|
