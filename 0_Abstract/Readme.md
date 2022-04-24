@@ -76,7 +76,6 @@ The capability of the warmth manipulate system is coded in embedded c and the ru
 |CRO|Serial Monitor|
 ![CRO](https://user-images.githubusercontent.com/101882303/164528653-b33c22de-45c4-4758-af54-ae47ee929daf.gif)|![SERIAL MONITOR](https://user-images.githubusercontent.com/101882303/164531951-ecaf2900-9c9f-4383-993a-437ab6586715.gif)
 
-# Test Case
 # Table
 | Test ID | Description | Exp I/P| Exp O/P|Test case
 | --- | --- | --- | ---- |-----|
